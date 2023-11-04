@@ -10,3 +10,6 @@
 [submodule "Expressoes_regulares-Padroes.Python"]
 	path = Expressoes_regulares-Padroes.Python
 	url = https://github.com/Kauan-Almeida/Expressoes_regulares-Padroes.Python.git
+[submodule "funcoes_personalizadas_e_lambdas-Python"]
+	path = funcoes_personalizadas_e_lambdas-Python
+	url = https://github.com/Kauan-Almeida/funcoes_personalizadas_e_lambdas-Python.git
