@@ -19,3 +19,6 @@
 [submodule "BeatifulSoup_requests-Python"]
 	path = BeatifulSoup_requests-Python
 	url = https://github.com/Kauan-Almeida/BeatifulSoup_requests-Python.git
+[submodule "Multi_threading_com-class_e_funcao"]
+	path = Multi_threading_com-class_e_funcao
+	url = https://github.com/Kauan-Almeida/Multi_threading_com-class_e_funcao.git
