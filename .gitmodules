@@ -13,3 +13,6 @@
 [submodule "funcoes_personalizadas_e_lambdas-Python"]
 	path = funcoes_personalizadas_e_lambdas-Python
 	url = https://github.com/Kauan-Almeida/funcoes_personalizadas_e_lambdas-Python.git
+[submodule "sniffer-Python"]
+	path = sniffer-Python
+	url = https://github.com/Kauan-Almeida/sniffer-Python.git
