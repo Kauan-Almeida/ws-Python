@@ -7,3 +7,6 @@
 [submodule "Tratamento_de_Execoes-Python"]
 	path = Tratamento_de_Execoes-Python
 	url = https://github.com/Kauan-Almeida/Tratamento_de_Execoes-Python.git
+[submodule "Expressoes_regulares-Padroes.Python"]
+	path = Expressoes_regulares-Padroes.Python
+	url = https://github.com/Kauan-Almeida/Expressoes_regulares-Padroes.Python.git
