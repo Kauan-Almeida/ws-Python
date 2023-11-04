@@ -1,3 +1,6 @@
 [submodule "if_elif_else-Python"]
 	path = if_elif_else-Python
 	url = https://github.com/Kauan-Almeida/if_elif_else-Python.git
+[submodule "For_While_em-Python"]
+	path = For_While_em-Python
+	url = https://github.com/Kauan-Almeida/For_While_em-Python.git
