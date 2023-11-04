@@ -4,3 +4,6 @@
 [submodule "For_While_em-Python"]
 	path = For_While_em-Python
 	url = https://github.com/Kauan-Almeida/For_While_em-Python.git
+[submodule "Tratamento_de_Execoes-Python"]
+	path = Tratamento_de_Execoes-Python
+	url = https://github.com/Kauan-Almeida/Tratamento_de_Execoes-Python.git
