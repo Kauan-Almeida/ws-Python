@@ -16,3 +16,6 @@
 [submodule "sniffer-Python"]
 	path = sniffer-Python
 	url = https://github.com/Kauan-Almeida/sniffer-Python.git
+[submodule "BeatifulSoup_requests-Python"]
+	path = BeatifulSoup_requests-Python
+	url = https://github.com/Kauan-Almeida/BeatifulSoup_requests-Python.git
